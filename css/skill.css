@@ -1,0 +1,34 @@
+#skill
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    font-family: Georgia, Times New Roman, Times, serif;
+    color: white;
+    margin-bottom: 80px;
+}
+
+#image-skill
+{
+    border: 10px solid maroon;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    margin-left: 330px;
+}
+
+h2
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+p
+{
+    margin-bottom: 15px;
+    margin-left: 20px;
+    text-align: justify;
+    font-size: 17px;
+    margin-right: 20px;
+}

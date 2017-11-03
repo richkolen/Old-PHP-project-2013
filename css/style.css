@@ -1,0 +1,182 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url("../image/body-bg.png");
+}
+
+#header
+{
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    position: relative;
+}
+
+#search
+{
+    background:url("../image/search1.fw.png");
+    border: none;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 15px;
+    right: 5px;
+}
+
+#search:hover
+{
+    background:url("../image/search2.fw.png");
+    border: none;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 15px;
+    right: 5px;
+}
+
+#searchbar
+{
+    margin-left: 753px;
+    height: 23px;
+    margin-top: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    border: none;
+}
+
+#header-split
+{
+    background: url("../image/separator.png") repeat-x;
+    height: 5px;
+}
+
+#footer-split
+{
+    background: url("../image/separator.png") repeat-x;
+    height: 5px;
+    margin-top: 20px;
+}
+
+#frame
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 950px;
+    position: relative;
+}
+
+nav
+{
+    background: url("../image/nav-bg.png") no-repeat;
+    background-position: inherit;
+    height: 410px;
+}
+
+ul
+{
+    padding-top: 193px;
+}
+
+ul li
+{
+    display: inline-block;
+}
+
+ul li a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    font-family: Georgia, Times New Roman, Times, serif;
+    padding: 10px 10px;
+}
+
+ul li a:hover
+{
+    background-color: maroon;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+}
+
+#home
+{
+    margin-left: 25px;
+    margin-right: 65px;
+}
+
+#about
+{
+    margin-right: 360px;
+}
+
+#contact
+{
+    margin-left: 35px;
+}
+
+#logo
+{
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    margin-left: -145px;
+}
+
+#nav-sep1
+{
+    position: absolute;
+    top: 180px;
+    left: 162px;
+}
+
+#nav-sep2
+{
+    position: absolute;
+    top: 180px;
+    right: 162px;
+}
+
+#footer
+{
+    height: 80px;
+    width: 950px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.social-media
+{
+    margin-top: 14px;
+    margin-right: 10px;
+    float: right;
+}
+
+.social-media-hover
+{
+    margin-top: 9px;
+    margin-right: 5px;
+    float: right;
+}
+
+h4
+{
+    color: white;
+    font-family: Georgia, Times New Roman, Times, serif;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+
+
+
+

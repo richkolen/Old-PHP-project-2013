@@ -1,0 +1,250 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url("../../image/body-bg.png");
+}
+
+#header
+{
+    height: 60px;
+}
+
+.bg-split
+{
+    background: url("../../image/separator.png") repeat-x;
+    height: 5px;
+}
+
+#frame
+{
+    height: 980px;
+    border-right: 20px solid maroon;
+    border-bottom: 20px solid maroon;
+    margin-bottom: 15px;
+}
+
+#admin-header
+{
+    background-color: maroon;
+    margin-top: 15px;
+}
+
+#admin-navigation
+{
+    width: 300px;
+    height: 900px;
+    background-color: maroon;
+    float: left;
+}
+
+#admin-navigation a
+{
+    color: white;
+    text-decoration: none;
+}
+
+#input-form
+{
+    border: 30px solid maroon;
+    color: white;
+    font-family: Georgia, Times New Roman, Times, serif;
+    width: 750px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 25px;
+    color: white;
+}
+
+table
+{
+    width: 700px;
+    margin-left: 25px;
+}
+
+td
+{
+    border: 3px solid maroon;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.form-text
+{
+    text-align: right;
+    width: 200px;
+}
+
+#title
+{
+    width: 300px;
+    height: 25px;
+}
+
+#link
+{
+    width: 300px;
+    height: 25px;
+}
+
+#author
+{
+    width: 300px;
+    height: 25px;
+}
+
+#keywords
+{
+    width: 300px;
+    height: 25px;
+}
+
+#image
+{
+    height: 30px;
+}
+
+#content
+{
+    width: 300px;
+    height: 300px;
+}
+
+#submit
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 280px;
+    width: 120px;
+    height: 35px;
+}
+
+#footer
+{
+    height: 80px;
+}
+
+#projects
+{
+    overflow-y: scroll;
+    height: 810px;
+}
+
+#text
+{
+    text-align: center;
+    color: white;
+    font-family: Georgia, Times New Roman, Times, serif;
+}
+
+th
+{
+    border: 3px solid maroon;
+    font-size: 20px;
+    background-color: maroon;
+}
+
+#head-id
+{
+    height: 50px;
+    width: 30px;
+}
+
+#table-id
+{
+    height: 90px;
+    width: 30px;
+    text-align: center;
+}
+
+.table-content
+{
+    width: 70px;
+    text-align: center;
+}
+
+#content-table
+{
+    width: 170px;
+    text-align: center;
+}
+
+#show-image
+{
+    height: 80px;
+    width: 80px;
+}
+
+#show
+{
+    width: 1130px;
+    color: white;
+}
+
+#edit-image
+{
+    height: 80px;
+    width: 80px;
+    padding-top: 7px;
+}
+
+#admin
+{
+    height: 520px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#login
+{
+    border: 30px solid maroon;
+    margin-top: 100px;
+}
+
+.admin-form
+{
+    text-align: right;
+    color: white;
+}
+
+#login-name
+{
+    width: 250px;
+    height: 25px;
+}
+
+#login-password
+{
+    width: 250px;
+    height: 25px;
+}
+
+
+#admin-submit
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 380px;
+    width: 120px;
+    height: 35px;
+}
+
+#admin-table
+{
+    margin-left: 150px;
+    margin-top: 20px;
+}

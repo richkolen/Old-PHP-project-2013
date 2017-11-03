@@ -1,0 +1,43 @@
+#about-content
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    height: 800px;
+    font-family: Georgia, Times New Roman, Times, serif;
+    color: white;
+}
+
+#slogan
+{
+    margin-left: 50px;
+    margin-bottom: 70px;
+    margin-top: 110px;
+}
+
+#image
+{
+    margin-left: 25px;
+    -moz-border-radius: 155px;
+    -webkit-border-radius: 155px;
+    border-radius: 155px;
+}
+
+#about-text
+{
+    width: 475px;
+    float: right;
+    margin-right: 25px;
+}
+
+h2
+{
+    margin-bottom: 20px;
+}
+
+p
+{
+    margin-bottom: 25px;
+    text-align: justify;
+    font-size: 17px;
+}
